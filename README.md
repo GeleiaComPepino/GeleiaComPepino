@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=GeleiaComPepino&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://patreon.com/geleiacompepinoo?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
+  [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgeleiacompepinoo%26type%3Dpatrons&style=flat)](https://patreon.com/geleiacompepinoo)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
