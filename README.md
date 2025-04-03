@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I am working as a programmer<br>👨‍💻I am a full programmer<br>⭐My favorite language is Javascript<br>😎Fun fact: I'm about to evolve to intermediate
+💻I am working as a programmer<br>👨‍💻I am a full programmer<br>⭐My favorite language is Javascript<br>
 
 
 # 💻 Tech Stack:
