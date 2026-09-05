@@ -1,13 +1,13 @@
-### Olá! Sou o Bryan 👋
+# Bryan Rafael Bueno Ribeiro
 
-Segurança da informação & automação, Ponta Grossa/PR. Desenvolvo ferramentas e produzo conteúdo técnico em português.
+Olá! Meu nome é Bryan.
 
-## Ofertas em produção
+## Projetos
 
-- 🛒 [Loja principal](https://bryanrafaelbueno.github.io/audit-br-store/) — 5 produtos com Pix (ebook, auditoria 24h, kit, cheat sheet, bundle)
-- 🧰 [reconpp](https://github.com/bryanrafaelbueno/reconpp) — auditor CLI passivo (headers, TLS, cookies, CORS, expostos) — MIT
-- 📘 [Web Security Audit na Prática](https://github.com/bryanrafaelbueno/web-security-audit-guia) — ebook pt-BR (fonte aberta)
-- 🚀 [Guia Primeiro Emprego Dev BR](https://bryanrafaelbueno.github.io/emprego-dev/) — R$29,90 (Pix)
-- 📅 [Planner ENEM 100 dias](https://bryanrafaelbueno.github.io/planner-enem/) — R$19,90 (Pix)
-
-Pagamento via Pix (Nubank), entrega por e-mail, garantia de devolução em 7 dias.
+- [ApiDeCalculos](https://github.com/bryanrafaelbueno/ApiDeCalculos)
+- [Chatify](https://github.com/bryanrafaelbueno/Chatify)
+- [BalatroWebPort](https://github.com/bryanrafaelbueno/BalatroWebPort)
+- [Synca](https://github.com/bryanrafaelbueno/Synca)
+- [Pidget](https://github.com/bryanrafaelbueno/Pidget)
+- [ReplicubeModLoader](https://github.com/bryanrafaelbueno/ReplicubeModLoader)
+- Outros: https://github.com/bryanrafaelbueno?tab=repositories
