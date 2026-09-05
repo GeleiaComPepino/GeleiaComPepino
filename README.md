@@ -40,23 +40,20 @@
 </p>
 
 ### 🧩 Projetos em destaque
-
+<div align="center">
 <table>
   <tr>
     <td align="center"><b>🌐 Synca</b><br><sub>Sincronizador de arquivos locais (Go)</sub></td>
     <td align="center"><b>⚙️ Delta.tools</b><br><sub>Conversor de arquivos (JavaScript)</sub></td>
-    <td align="center"><b>🎮 StremioRPC</b><br><sub>Discord RPC para Stremio (JavaScript)</sub></td>
   </tr>
   <tr>
     <td align="center"><b>📱 RePlace</b><br><sub>App mobile React Native (TypeScript)</sub></td>
-    <td align="center"><b>🪟 Pidget</b><br><sub>Widgets para Linux (Xmake)</sub></td>
-    <td align="center"><b>🎓 EnemQuest</b><br><sub>Estudo gamificado para o ENEM (Python)</sub></td>
+    <td align="center"><b>🎮 StremioRPC</b><br><sub>Discord RPC para Stremio (JavaScript)</sub></td>
   </tr>
   <tr>
     <td align="center"><b>🕹️ Gravitris</b><br><sub>Releitura de Tetris (JavaScript)</sub></td>
-    <td align="center"><b>🏎️ SennaX Escuderia</b><br><sub>Engenharia no STEM Racing (CSS)</sub></td>
     <td align="center"><b>🧩 ReplicubeModLoader</b><br><sub>Mod loader (JavaScript)</sub></td>
   </tr>
 </table>
-
+</div>
 <p align="center"><i>Nota: se um repositório não está na lista de "destaques", veja todos: <a href="https://github.com/bryanrafaelbueno?tab=repositories">github.com/bryanrafaelbueno</a></i></p>
